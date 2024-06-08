@@ -19,7 +19,7 @@
 # sa		  South America (São Paulo)
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
-
+2
 
 import requests,os,base64
 if not os.path.exists("./.gitignore"):
